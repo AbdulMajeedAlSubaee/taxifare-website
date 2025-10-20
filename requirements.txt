@@ -1,5 +1,5 @@
 streamlit
 folium
 openrouteservice
-st_folium
+streamlit_folium
 convert
